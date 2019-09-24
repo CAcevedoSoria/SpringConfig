@@ -1,4 +1,4 @@
-spring.application.name=application-eureka
+spring.application.name=MicroserviceEureka
 server.port=8761
 eureka.client.register-with-eureka=false
 eureka.client.fetch-registry=false
